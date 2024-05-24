@@ -20,6 +20,6 @@ Création du mini_grop.py
 
 
 #2 
-Screen de mon token groq
+Screen de mon api tok.. 
 <img width="724" alt="création token groq" src="https://github.com/Rubz-18/Evalution/assets/170402608/413bec14-a998-4443-8bcc-74da1f048c35">
 
