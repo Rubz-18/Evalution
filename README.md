@@ -23,3 +23,7 @@ Création du mini_grop.py
 Screen de mon api tok.. 
 <img width="724" alt="création token groq" src="https://github.com/Rubz-18/Evalution/assets/170402608/413bec14-a998-4443-8bcc-74da1f048c35">
 
+#3 
+Creation de mon images et run de celle-ci
+
+![Capture d'écran 2024-05-24 160528](https://github.com/Rubz-18/Evalution/assets/170402608/cd69ec6a-ebfb-4be7-b775-ee6fb5489708)
